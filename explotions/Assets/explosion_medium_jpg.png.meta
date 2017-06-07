@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 04ac22c8f1eb1c44e83ec749b3e01712
+timeCreated: 1496836312
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosion_medium_jpg_0
+    21300002: explosion_medium_jpg_1
+    21300004: explosion_medium_jpg_2
+    21300006: explosion_medium_jpg_3
+    21300008: explosion_medium_jpg_4
+    21300010: explosion_medium_jpg_5
+    21300012: explosion_medium_jpg_6
+    21300014: explosion_medium_jpg_7
+    21300016: explosion_medium_jpg_8
+    21300018: explosion_medium_jpg_9
+    21300020: explosion_medium_jpg_10
+    21300022: explosion_medium_jpg_11
+    21300024: explosion_medium_jpg_12
+    21300026: explosion_medium_jpg_13
+    21300028: explosion_medium_jpg_14
+    21300030: explosion_medium_jpg_15
+    21300032: explosion_medium_jpg_16
+    21300034: explosion_medium_jpg_17
+    21300036: explosion_medium_jpg_18
+    21300038: explosion_medium_jpg_19
+    21300040: explosion_medium_jpg_20
+    21300042: explosion_medium_jpg_21
+    21300044: explosion_medium_jpg_22
+    21300046: explosion_medium_jpg_23
+    21300048: explosion_medium_jpg_24
+    21300050: explosion_medium_jpg_25
+    21300052: explosion_medium_jpg_26
+    21300054: explosion_medium_jpg_27
+    21300056: explosion_medium_jpg_28
+    21300058: explosion_medium_jpg_29
+    21300060: explosion_medium_jpg_30
+    21300062: explosion_medium_jpg_31
+    21300064: explosion_medium_jpg_32
+    21300066: explosion_medium_jpg_33
+    21300068: explosion_medium_jpg_34
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion_medium_jpg_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 730
+        width: 107
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 724
+        width: 150
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 727
+        width: 177
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 716
+        width: 185
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_4
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 716
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 180
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 521
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 521
+        width: 178
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 517
+        width: 177
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_9
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 516
+        width: 169
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 311
+        width: 157
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 331
+        width: 148
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 335
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 340
+        width: 129
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_14
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 353
+        width: 128
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 155
+        width: 124
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 252
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 236
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 162
+        width: 120
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 252
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 236
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 171
+        width: 120
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_22
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 188
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_23
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 182
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_24
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 200
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_25
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 214
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_26
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 225
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_27
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 217
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_28
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 199
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_32
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 8
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_medium_jpg_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 16
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

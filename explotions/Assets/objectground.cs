@@ -22,6 +22,7 @@ public class objectground : MonoBehaviour
             Instantiate(explosion, transform.position, explosion.transform.rotation);
             Instantiate(explosionground, transform.position, explosion.transform.rotation);
             Instantiate(rockchunk, new Vector3(transform.position.x, transform.position.y + 2, transform.position.z), rockchunk.transform.rotation);
+            Destroy(gameObject);
         }
     }
 
